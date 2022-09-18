@@ -1,12 +1,11 @@
 <hr>
-<div style="box-align: center;">
-    <a href="https://discord.com/users/650387361313587219">
-      <img src="https://lanyard.cnrad.dev/api/650387361313587219?theme=dark&bg=23272A&animated=true&hideDiscrim=false&borderRadius=30px"/>
-    </a>
-</div>
-<hr>
 <div>
     <p align="center"> 👋 Hello im CrAfTs_ArMy 👋 <br> 💻 I am a developer who programs in Java, JavaScript and many other languages 💻</p>
+    <div align="center">
+        <a href="https://discord.com/users/650387361313587219">
+            <img src="https://lanyard.cnrad.dev/api/650387361313587219?theme=dark&bg=23272A&animated=true&hideDiscrim=false&borderRadius=30px"/>
+        </a>
+    </div>
 </div>
 <hr>
 <p align="center">
