@@ -6,7 +6,7 @@
 </div>
 <hr>
 <div>
-    <p align="center"> ☕ Hello im Hayoto ☕ <br> 🐍 Im a developer who code in Python and Java 🐍 <br> 💻 I also learning new Programming languages like C++ 💻</p>
+    <p align="center"> 👋 Hello im CrAfTs_ArMy 👋 <br> 💻 Im a developer who code in Java, JavaScript, HTML and PHP 💻</p>
 </div>
 <hr>
 <p align="center">
