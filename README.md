@@ -1,58 +1,24 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<hr>
+<div style="box-align: center;">
+    <a href="https://discord.com/users/650387361313587219">
+      <img src="https://lanyard.cnrad.dev/api/650387361313587219?theme=dark&bg=23272A&animated=true&hideDiscrim=false&borderRadius=30px"/>
+    </a>
 </div>
-
-<h1> Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CrAfTsArMy.CrAfTsArMy)
-
+<hr>
+<div>
+    <p align="center"> ☕ Hello im Hayoto ☕ <br> 🐍 Im a developer who code in Python and Java 🐍 <br> 💻 I also learning new Programming languages like C++ 💻</p>
+</div>
+<hr>
+<p align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=craftsarmy&show_icons=true&theme=dracula" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craftsarmy&theme=dracula" />
 </p>
-<div size='20px'> Hi! My name is CrAfTs_ArMy. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
-<h2> About Me </h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-- 🔭 I’m currently working on HypeAPI
-
-- 🌱 I’m currently learning Data Science, 
-
-- 👯 I’m looking to collaborate on Projects 
-
-- 💬 Talk to me about Java, HTML, PHP, CSS, JavaScript, Open Source 
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=whatsapp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/whatsapp.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=discord&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=blender&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=codepen&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/codepen.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=google&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/google.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=jenkins&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=mariadb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mariadb.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=snapchat&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/snapchat.svg'> </a>
-<a href= https://github.com/CrAfTsArMy?tab=repositories&q=&type=&language=youtube&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
-
-
-<h2> Connect with me </h2>
-<a href = 'https://www.github.com/CrAfTsArMy'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-
-<h2> My GitHub Stats</h2>
-
-![Metrics](https://metrics.lecoq.io/CrAfTsArMy?template=classic&config.timezone=America%2FToronto)
+<hr>
+<p align="center">
+    <a href="http://dc.craftsblock.de/">
+        <img src="https://img.icons8.com/ios-filled/344/discord-logo.png" height="32" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCtBJZHmZqOvWJ0t8hjhWSAA">
+        <img src="https://img.icons8.com/ios-filled/344/youtube-play.png" height="32" />
+    </a>
+</p>
