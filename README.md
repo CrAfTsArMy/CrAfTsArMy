@@ -6,6 +6,6 @@ Welcome to my GitHub! I'm a developer who programs in Java, JavaScript and many 
 
 ## 📊 Stats
 <a href="https://github.com/CrAfTsArMy" style="text-decoration: none;">
-     <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=CrAfTsArMy&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-     <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrAfTsArMy&layout=compact&theme=transparent&hide_border=true" />
+     <img width="465em" src="https://github-readme-stats.vercel.app/api?username=CrAfTsArMy&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+     <img width="465em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrAfTsArMy&layout=compact&theme=transparent&hide_border=true" />
 </a>
